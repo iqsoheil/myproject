@@ -1,0 +1,126 @@
+Country Name,Country Code,Series Name,Series Code,2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+India,IND,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.72066307454044,2.66772054665755,..,..,..,..,..,..,..,..
+India,IND,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,22.4238831692773,21.3739204322784,..,..,..,..,..,..,..,..
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.96065332607863,5.1736825587741,5.36101124797904,..,..,..,..,..,..,..
+India,IND,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,32.4755540414775,34.3055237512019,..,..,..,..,..,..,..,..
+India,IND,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,600.966036887893,630.900867833184,..,..,..,..,..,..,..,..
+India,IND,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,101883.928,92694.426,98994.332,95829.711,..,..,..,..,..,..
+India,IND,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,17.3493138262499,16.2538398153488,15.3430503454798,..,..,..,..,..,..,..
+India,IND,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.85,33.85,33.4,33.02,32.41,32.82,32.93,..,..,..
+India,IND,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,3104900000,2816630000,2086940000,1686930000,1311630000,1639510000,856350000,3321000000,1621240000,..
+India,IND,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,2952700000,2816630000,2086940000,1686930000,1311630000,1639510000,856350000,3321000000,1621240000,..
+India,IND,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.51627596536508,1.69565878566784,2.09211575768566,1.93736319812939,1.5073165808981,1.55821479344505,1.78738173893008,2.41266468032859,1.40815877116502,..
+India,IND,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,2863836,3044960,3064543,3106343,3242172,3388915,3394872,..,..,..
+India,IND,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.0490051133590748,..,..,..,..,..,..,..,..,..
+India,IND,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,..,..,..,..,..,..,..,..,..,..
+India,IND,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.4048995601154,27.6564012029549,27.34739147794,26.6189999400439,26.500016646713,26.412091901691,24.5964578828891,24.5310661885805,25.8874345670899,..
+India,IND,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,15.253022692765,15.0655701110742,15.5838545863713,15.162237133123,15.018238750171,14.8815306674604,13.473618107473,13.6833852894253,13.9757688551238,..
+India,IND,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,37.609445685235,38.66609008803,42.8636137886518,41.392282940074,41.1977535693425,44.4484380908462,44.5809793016234,44.5809793016234,..,..
+India,IND,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,90636486139700,97121327901500,104918703465800,113282846243700,120341705137300,127337977693500,132194755854600,125850736180300,136054740006600,..
+India,IND,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.67308833438322,2.81368985123428,1.77764002432658,1.74839023532939,1.98393401607656,2.25531632110711,2.01224538396897,1.78466920695081,3.15934537555664,..
+India,IND,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0935065065834165,0.0844638547070627,0.0689196343932162,0.0607616430187198,0.0616444207974507,0.0660238912587392,0.0702256864350301,0.0675142930826255,0.0774937091732812,..
+India,IND,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.81237991331203,1.40857675242839,0.892185189951202,0.849895006070074,0.867985809136638,1.02272540703528,0.853397080978412,0.901817540229968,1.62081061089854,..
+India,IND,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,5.24143710241891,4.63653355306791,4.92319617296841,..,..,..,..,..,..,..
+India,IND,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1119.9474023131,1106.14179502085,1093.0808169491,1080.20375421752,1067.79250691451,1056.24288390141,1045.46844198198,1035.52945457653,..,..
+India,IND,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,4,..,..,..,..,..,..,..,..,..
+Russian Federation,RUS,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.72623000155985,8.15652485967214,..,..,..,..,..,..,..,..
+Russian Federation,RUS,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.380690672596283,0.360181803606853,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.0459535793205111,0.0699404047506761,0.0910265638035215,..,..,..,..,..,..,..
+Russian Federation,RUS,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-83.8412398490403,-83.6705407206797,..,..,..,..,..,..,..,..
+Russian Federation,RUS,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,5078.62634152433,4942.87548308675,..,..,..,..,..,..,..,..
+Russian Federation,RUS,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,884495.068,882731.241,834257.168,850380.967,..,..,..,..,..,..
+Russian Federation,RUS,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,17.1746302202462,16.5682511980707,15.8557951545716,..,..,..,..,..,..,..
+Russian Federation,RUS,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.61,3.3,3.2,3.36,3.25,3.18,3.22,..,..,..
+Russian Federation,RUS,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,480000000,723100000,282000000,207010000,161000000,487420000,652310000,486950000,101020000,..
+Russian Federation,RUS,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,..,262000000,282000000,207010000,127300000,188700000,652310000,486950000,101020000,..
+Russian Federation,RUS,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.01939794071852,1.069876215093,0.502608373795545,2.54849873389468,1.8140929436605,0.530060511511943,1.88851854086689,0.636434049707395,2.27402659624866,..
+Russian Federation,RUS,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,2317628,2302335,2287294,2285747,2324573,2419471,2476835,..,..,..
+Russian Federation,RUS,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,2.42280337107132,2.63667370508555,3.46011087732813,2.53869657692887,..,..,..,..,..,..
+Russian Federation,RUS,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.13278996944427,1.18691003322601,..,..,..,..,..,..,..,..
+Russian Federation,RUS,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.1912891792502,27.9315270599772,29.7940599874349,29.1739050664536,30.6732968850171,32.5542980530841,32.1504958367204,29.806223878696,33.1589971083412,..
+Russian Federation,RUS,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,11.0573063367208,11.3355804143996,12.383018865556,11.700279102295,12.3127721298909,12.8198832504186,12.9692072846673,13.4231660990477,14.445737322322,..
+Russian Federation,RUS,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,24.6292653403208,25.5664329864047,28.5618310090306,28.2517611901484,26.8943488841171,24.8282512332767,25.7890831635173,25.7890894032749,..,..
+Russian Federation,RUS,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,77130833919200,77977816840900,76836521297600,77077133321100,78499183586300,80683552474500,82457695684800,80444263774200,84141131840300,..
+Russian Federation,RUS,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.799885012616,12.4271978897589,9.761666714108,8.19418914130003,9.71546623895349,14.4734868157828,12.2071140110196,7.58812544004463,18.5109394363314,..
+Russian Federation,RUS,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.05775631125077,2.31599937992039,2.50292237351811,1.63670203160983,1.96827097946533,3.18408544311332,2.19179127550364,1.11948785487127,5.85907379530895,..
+Russian Federation,RUS,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.10944640287371,7.0931496716151,5.1935783034665,4.35946884302262,5.18168611283961,8.00986600478557,6.89089961474804,3.88535807153478,9.45964236613277,..
+Russian Federation,RUS,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,50.1115272568077,50.2189991273923,49.7126094312904,..,..,..,..,..,..,..
+Russian Federation,RUS,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,30047.3158120271,29981.9912668829,29924.3141089741,29873.4127298717,29841.5038971918,29845.4035091979,29860.2011446027,29929.2430908998,..,..
+Russian Federation,RUS,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,..,..,..,..,..,..,..,..,..,..
+Brazil,BRA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.4981042378909,10.8090873277871,..,..,..,..,..,..,..,..
+Brazil,BRA,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,20.5446782881997,20.353144637472,..,..,..,..,..,..,..,..
+Brazil,BRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.22576239371314,9.85708988895304,12.1184144471265,..,..,..,..,..,..,..
+Brazil,BRA,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,13.8908191836356,11.870133377942,..,..,..,..,..,..,..,..
+Brazil,BRA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1456.10904746834,1490.42584610757,..,..,..,..,..,..,..,..
+Brazil,BRA,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,71136.133,78096.099,77241.688,66116.01,..,..,..,..,..,..
+Brazil,BRA,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,76.6892081191253,73.0820738473312,73.9669080481113,..,..,..,..,..,..,..
+Brazil,BRA,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.32,41.71,43.62,45.46,45.33,46.95,47.57,..,..,..
+Brazil,BRA,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,10075420000,10077600000,5805180000,14598300000,6515000000,4953540000,14946570000,6242530000,3170480000,..
+Brazil,BRA,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,9576120000,9440600000,5573180000,14598300000,5813300000,4947340000,6309570000,5899740000,2670270000,..
+Brazil,BRA,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.04152453327778,3.5714255248341,3.59214499882422,4.13736263347993,3.33827132367175,4.07745878194606,3.69270036167182,2.60854137404101,2.88624032195791,..
+Brazil,BRA,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1080708,1118100,1095301,1063567,1079305,1046575,1057259,..,..,..
+Brazil,BRA,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.547509183133412,0.562972894110127,0.367215116613365,0.320897501414688,..,..,..,..,..,..
+Brazil,BRA,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,1.23601996898651,..,..,..,..,..,..,..,..,..
+Brazil,BRA,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.2248099517239,20.4724627523359,19.3600439758784,18.3547582819084,18.1885023124362,18.7490514539899,18.7546275752859,17.7016526354564,18.8581281523121,..
+Brazil,BRA,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,10.4796122922512,10.3370973998231,10.5209374499127,10.7864511204391,10.7214980140397,10.5284573811407,10.3325005362606,9.66341817884917,9.6453417017345,..
+Brazil,BRA,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,36.3888313097608,34.1546643418563,35.4621969491065,32.7776980511883,34.9332812403144,34.4760261990358,34.4291891354476,34.4291891351196,..,..
+Brazil,BRA,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,3581827431600,3598339786900,3484989276700,3383919470000,3426360957900,3486532072500,3520661069500,3388879188800,3535744117200,..
+Brazil,BRA,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.78686028400519,3.28623279487755,2.35832735012319,2.43013532231265,2.73375767842298,3.61759120230309,3.21717303299592,3.22987656043381,7.94111199933246,..
+Brazil,BRA,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0705641668851668,0.0682078611571187,0.047972921893605,0.0209459201154779,0.0274701476531574,0.0651681042894358,0.0723668776342963,0.0477663275367818,0.0699944991767358,..
+Brazil,BRA,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.78797181123262,1.74979758692364,1.11264455896167,1.02883412080618,1.24905409177789,1.89875463067738,1.75977305025389,1.31416348966725,3.74676225993476,..
+Brazil,BRA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,12.0823819462927,13.7263798757642,13.6662471718485,..,..,..,..,..,..,..
+Brazil,BRA,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,28063.4067616511,27823.6987038953,27589.3051454883,27366.3905473113,27150.4332558803,26935.7748352317,26730.2062067548,26552.9931513259,..,..
+Brazil,BRA,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,..,..,..,..,..,..,..,..,..,..
+China,CHN,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.53414655121912,5.10701715020901,..,..,..,..,..,..,..,..
+China,CHN,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.01955761985074,2.88335408767616,..,..,..,..,..,..,..,..
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.5648783506209,4.05665980378573,4.85700420830511,..,..,..,..,..,..,..
+China,CHN,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,14.7564514134368,15.0218007401139,..,..,..,..,..,..,..,..
+China,CHN,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2204.24329905226,2224.35489845903,..,..,..,..,..,..,..,..
+China,CHN,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,320389.457,353880.168,366949.356,403091.308,..,..,..,..,..,..
+China,CHN,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.2962273802567,22.6091537829535,23.926817173663,..,..,..,..,..,..,..
+China,CHN,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.45,11.94,12.18,12.56,13.13,13.71,14.45,..,..,..
+China,CHN,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,3691600000,1647500000,3186650000,3386891000,2950270000,265510000,9710000,838180000,264410000,..
+China,CHN,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,3682930000,1647500000,3186650000,3386891000,2950270000,265510000,9710000,838180000,264410000,..
+China,CHN,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.03987546926686,2.55923344660685,2.1921816030386,1.55564214957722,1.34913267883962,1.69390529382619,1.31071877840365,1.7231837927804,1.88326293759591,..
+China,CHN,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,11878030,11938030,11818470,11800830,12035270,12471090,12705090,..,..,..
+China,CHN,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.0615552502770896,0.0520539474116482,0.0351523715120533,..,..,..,..,..,..,..
+China,CHN,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2.0146598815918,2.04604005813599,..,..,..,..,..,..,..,..
+China,CHN,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,44.1767045363061,43.0855681094018,40.8413399694486,39.5806215023494,39.8516984492442,39.6870118233949,38.5874054560351,37.8428263745761,39.4261122769975,..
+China,CHN,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,30.6710080721744,30.3964442055249,28.9516705786802,28.0694422377445,28.1089368715615,27.8410111544733,26.7747217058947,26.2851691106755,27.4377471047803,..
+China,CHN,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,41.4512685209806,41.4512685204961,41.4512685201717,41.4512685198934,41.4512685201663,41.4512685195502,41.4512685206086,41.4512685206009,..,..
+China,CHN,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,..,..,..,..,..,..,..,..,..,..
+China,CHN,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.98307168349706,2.31013480472694,1.17476659078236,1.0524740832802,1.31423766724865,1.42518421392494,1.26691367576973,0.863774740928771,1.70756488252672,..
+China,CHN,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0941454766793496,0.125698597465449,0.134795850990954,0.104843531709252,0.106612708521095,0.153295372359551,0.160723457303557,0.135539849767672,0.210524604380993,..
+China,CHN,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.84082793001625,1.41385938821833,0.705545701869656,0.602688601577589,0.722467199027478,0.834345313350498,0.722276040174109,0.475068779435521,1.01156651783812,..
+China,CHN,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.96121927679729,2.02100518113681,2.48703063811759,..,..,..,..,..,..,..
+China,CHN,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2063.39309292568,2050.42788622746,2038.54014175351,2026.8916766946,2014.66106581007,2005.26105677379,1998.16017815727,1993.40939692439,..,..
+China,CHN,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.7687404681877,2.66495356753026,..,..,..,..,..,..,..,..
+South Africa,ZAF,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,8.01939467321064,7.74657292896815,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.151268602483491,0.902309286450128,1.93040334608651,..,..,..,..,..,..,..
+South Africa,ZAF,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-18.5888862744172,-14.483553291849,..,..,..,..,..,..,..,..
+South Africa,ZAF,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2593.83548711488,2686.37619555841,..,..,..,..,..,..,..,..
+South Africa,ZAF,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,9391.187,9050.156,9974.24,10131.921,..,..,..,..,..,..
+South Africa,ZAF,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.609023981800373,1.29313627636078,2.25504182608132,..,..,..,..,..,..,..
+South Africa,ZAF,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.77,9.85,10.28,10.53,10.45,10.19,10.5,..,..,..
+South Africa,ZAF,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,3941690000,87000000,4035440000,779400000,..,4313240000,..,..,826300000,..
+South Africa,ZAF,Public private partnerships investment in energy (current US$),IE.PPN.ENGY.CD,3941690000,87000000,3906440000,779400000,..,4313240000,..,..,826300000,..
+South Africa,ZAF,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.05358095229684,1.5193274375398,0.438735792056359,0.684612553455795,0.539673956759456,1.37803508753579,1.31677675139964,0.934054723379764,9.8555271181587,..
+South Africa,ZAF,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,548353.4,560857,536121,536193.1,550699.3,549653.6,555431.7,..,..,..
+South Africa,ZAF,Net investment in nonfinancial assets (% of GDP),GC.NFN.TOTL.GD.ZS,0.832747644373044,0.927599939399031,1.01711201426567,0.818118556759667,..,..,..,..,..,..
+South Africa,ZAF,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,24.5517417673484,24.3052820058227,23.7323079746326,23.7825372977493,23.6105564955695,23.601626187006,23.6378082218677,23.2727872970934,24.5038885560255,..
+South Africa,ZAF,"Manufacturing, value added (% of GDP)",NV.IND.MANF.ZS,12.3667757766351,12.4807113856549,12.5179444713924,12.4836443520042,12.5127045016941,12.4919463104482,12.3990774179506,11.6624161845594,11.7852887174411,..
+South Africa,ZAF,Medium and high-tech manufacturing value added (% manufacturing value added),NV.MNF.TECH.ZS.UN,24.4280338172879,24.428033817512,24.4280338173866,24.4280326989921,24.4280338172044,24.4280338176361,24.4280338173674,24.4280338176637,..,..
+South Africa,ZAF,Gross value added at basic prices (GVA) (constant LCU),NY.GDP.FCST.KN,3876979685600,3936504500000,3981757665100,4014645565800,4061243195900,4125572963884.09,4135424631191.21,3891061231940.01,4074102927844.76,..
+South Africa,ZAF,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.11153096342063,4.66573419871465,2.80794769347075,3.56159906611897,3.8355856656622,3.86949148830953,4.18782227881945,4.01777511009808,7.32857859192335,..
+South Africa,ZAF,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0312421227606922,0.0255744432147647,0.0232937993610495,0.015336308509032,0.012735718818607,0.0227641504019782,0.0251931123610767,0.020767257947969,0.0293827523467257,..
+South Africa,ZAF,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.70364564279396,2.70807834805164,1.26249484458402,1.67131452614256,1.79546169620215,1.94059715513746,2.04971783015156,2.1232302238428,4.39467992212987,..
+South Africa,ZAF,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0,0,0,..,..,..,..,..,..,..
+South Africa,ZAF,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,831.575886794011,818.570574423313,801.768127798403,794.01266244604,790.943569018804,781.309472932641,771.256177473621,761.879793497244,..,..
+South Africa,ZAF,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),IQ.CPA.ENVR.XQ,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,
+Last Updated: 05/10/2023,,,,,,,,,,,,,
